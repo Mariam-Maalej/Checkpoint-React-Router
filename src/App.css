@@ -1,0 +1,29 @@
+.App {
+  background-image: url(./background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.nav {
+  text-decoration: none;
+  color: white;
+}
+.home {
+  background-image: url("https://veramedia.com/wp-content/themes/activate_theme/img/bg_demo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 570px;
+  color: white;
+}
+.trailer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 570px;
+  font-size: larger;
+  color: black;
+}
